@@ -53,3 +53,73 @@ error: Forever detected script exited with code: 1
 error: Forever detected script exited with code: 1
 (node:5132) [DEP0013] DeprecationWarning: Calling an asynchronous function without callback is deprecated.
 error: Forever detected script exited with code: 1
+(node:6452) [DEP0013] DeprecationWarning: Calling an asynchronous function without callback is deprecated.
+error: Forever detected script exited with code: 1
+[35m[2018-06-16 21:58:05.712] [FATAL] local - [39man error of local occured { Error: listen EADDRINUSE 127.0.0.1:1080
+    at Object._errnoException (util.js:992:11)
+    at _exceptionWithHostPort (util.js:1014:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1355:14)
+    at listenInCluster (net.js:1396:12)
+    at doListen (net.js:1505:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+    at Function.Module.runMain (module.js:695:11)
+    at startup (bootstrap_node.js:191:16)
+    at bootstrap_node.js:612:3
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '127.0.0.1',
+  port: 1080 }
+(node:6900) UnhandledPromiseRejectionWarning: Error: listen EADDRINUSE 127.0.0.1:1080
+    at Object._errnoException (util.js:992:11)
+    at _exceptionWithHostPort (util.js:1014:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1355:14)
+    at listenInCluster (net.js:1396:12)
+    at doListen (net.js:1505:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+    at Function.Module.runMain (module.js:695:11)
+    at startup (bootstrap_node.js:191:16)
+    at bootstrap_node.js:612:3
+(node:6900) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:6900) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+error: Forever detected script exited with code: 0
+(node:2496) [DEP0013] DeprecationWarning: Calling an asynchronous function without callback is deprecated.
+(node:4824) [DEP0013] DeprecationWarning: Calling an asynchronous function without callback is deprecated.
+error: Forever detected script exited with code: 1
+[35m[2018-06-16 22:03:06.537] [FATAL] local - [39man error of local occured { Error: listen EADDRINUSE 127.0.0.1:1080
+    at Object._errnoException (util.js:992:11)
+    at _exceptionWithHostPort (util.js:1014:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1355:14)
+    at listenInCluster (net.js:1396:12)
+    at doListen (net.js:1505:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+    at Function.Module.runMain (module.js:695:11)
+    at startup (bootstrap_node.js:191:16)
+    at bootstrap_node.js:612:3
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '127.0.0.1',
+  port: 1080 }
+(node:6956) UnhandledPromiseRejectionWarning: Error: listen EADDRINUSE 127.0.0.1:1080
+    at Object._errnoException (util.js:992:11)
+    at _exceptionWithHostPort (util.js:1014:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1355:14)
+    at listenInCluster (net.js:1396:12)
+    at doListen (net.js:1505:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+    at Function.Module.runMain (module.js:695:11)
+    at startup (bootstrap_node.js:191:16)
+    at bootstrap_node.js:612:3
+(node:6956) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:6956) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+error: Forever detected script exited with code: 0
+(node:5464) [DEP0013] DeprecationWarning: Calling an asynchronous function without callback is deprecated.
+(node:2412) [DEP0013] DeprecationWarning: Calling an asynchronous function without callback is deprecated.
+error: Forever detected script exited with code: 1
+(node:1180) [DEP0013] DeprecationWarning: Calling an asynchronous function without callback is deprecated.
+error: Forever detected script exited with code: 1
